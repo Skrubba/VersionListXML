@@ -1,0 +1,8 @@
+<version>
+	<MCVersion id = "1.7.10">
+		<IACore>
+			<modVersion latest = "true">1.1.0</modVersion>
+			<modVersion>1.0.0</modVersion>
+		</IACore>
+	</MCVersion>
+</version>
