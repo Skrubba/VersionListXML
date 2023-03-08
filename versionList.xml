@@ -1,9 +1,18 @@
-<?xml version = "1.0"?>
 <version>
 	<MCVersion id = "1.7.10">
 		<IACore>
 			<modVersion latest = "true">1.1.0</modVersion>
 			<modVersion>1.0.0</modVersion>
+		</IACore>
+		<IAditional>
+			<modVersion latest = "true">0.1.0</modVersion>
+			<modVersion>0.0.0</modVersion>
+		</IAditional>
+	</MCVersion>
+	<MCVersion id = "1.12.2">
+		<IACore>
+			<modVersion latest = "true">2.1.0</modVersion>
+			<modVersion>2.0.0</modVersion>
 		</IACore>
 	</MCVersion>
 </version>
